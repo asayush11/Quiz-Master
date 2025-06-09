@@ -1,0 +1,6 @@
+[submodule "Question-Service"]
+	path = Question-Service
+	url = https://github.com/asayush11/Question-Service.git
+[submodule "Quiz-UI"]
+	path = Quiz-UI
+	url = https://github.com/asayush11/Quiz-UI.git
